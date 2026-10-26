@@ -9,6 +9,6 @@ for i in range(n-1):
       swapped = True
   if not swapped:
     break
-print(hello world)
+
 print(mylist)
 #made using ai
